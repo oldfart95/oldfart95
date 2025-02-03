@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @oldfart95
-- 👀 I’m interested in pentesting 
+- 👀 I’m interested in pentesting and crypto 
 - 🌱 I’m currently learning python and linux
-- 💞️ I’m looking to collaborate on small beginner projects in python and Linux to stretch my legs
 - 📫 How to reach me ... ... I'm working on that.
 
 <!---
